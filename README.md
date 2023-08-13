@@ -15,4 +15,4 @@ Then, rename the file name to: TCGA_BRCA_Attribute.txt
 
 Run data_preprocessing.R
 
-Run Thesis.ipynb
+Run model_analysis.ipynb
